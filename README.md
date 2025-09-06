@@ -81,9 +81,16 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/fastapi/fastapi
+2. Gráfico selecionado: ![alt text](image.png)
+3. Explicação: 
+Evolução do código (LOC)
+
+O gráfico de linhas de código mostra que, entre 2020 e 2023, o projeto passou por um crescimento contínuo, saindo de aproximadamente 27 mil para cerca de 60 mil linhas. Em 2024 houve um salto abrupto de mais de 50 mil linhas, o que pode estar relacionado à importação de módulos, inclusão de dependências internas ou mesmo geração automática de código. No ano seguinte, em 2025, observa-se uma estabilização em torno de 115 mil linhas, sugerindo que o foco voltou-se para manutenção, testes e refinamento da base existente.
+
+Esse comportamento indica uma expansão gradual nos primeiros anos, seguida por uma grande alteração estrutural em 2024. Embora crescimentos moderados sejam geralmente sustentáveis, saltos muito bruscos merecem análise detalhada, pois podem representar aumento de complexidade e desafios de manutenção. A estabilização após a grande expansão é um sinal positivo, desde que acompanhada por boas práticas de testes e refatorações.
+
+Em resumo, o projeto evoluiu de forma controlada até 2023, sofreu uma expansão significativa em 2024 e se estabilizou em 2025. O salto merece investigação no histórico de commits ou changelogs para esclarecer suas causas.
 
 
 
